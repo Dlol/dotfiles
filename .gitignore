@@ -1,5 +1,6 @@
 *
-!qtile/*
-!fish/*
-!nnn/*
+!*/
+!qtile/**
+!fish/**
+!nnn/**
 !.gitignore
