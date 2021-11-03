@@ -1,0 +1,15 @@
+
+* {
+    background-color:           #37302f;
+    border-color:               #7a3331;
+    text-color:                 #ffffff;
+    font:                       "monospace 10";
+    prompt-font:                "monospace 10";
+    prompt-background:          #3b2e2b;
+    prompt-foreground:          #ffffff;
+    prompt-padding:             1px;
+    selected-normal-background: #7a3331;
+    selected-normal-foreground: #ffffff;
+}
+@import "/usr/share/rofi/themes/dlol.rasi"
+@theme "/usr/share/rofi/themes/dlol.rasi"

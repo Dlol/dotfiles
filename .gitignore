@@ -4,3 +4,6 @@
 !fish/**
 !nnn/**
 !.gitignore
+!sxhkd/**
+!alacritty/**
+!rofi/**
